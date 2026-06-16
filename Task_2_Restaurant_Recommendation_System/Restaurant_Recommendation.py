@@ -48,13 +48,13 @@ recommendations = recommendation_restaurants(
     # cuisines="North Indian",
     # price_range=2
 
-    # city="Mumbai",
-    # cuisines = "Chinese",
-    # price_range = 3
+    city="Mumbai",
+    cuisines = "Chinese",
+    price_range = 3
 
-    city="Hyderabad",
-    cuisines="Biryani",
-    price_range=2
+    # city="Hyderabad",
+    # cuisines="Biryani",
+    # price_range=2
 )
 
 print(recommendations)
